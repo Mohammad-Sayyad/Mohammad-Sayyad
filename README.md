@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=Mohammad-Sayyad&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 
+[![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Mohammad-Sayyad&theme=radical)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+
