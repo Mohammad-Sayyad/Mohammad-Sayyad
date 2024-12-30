@@ -19,4 +19,5 @@ Here are some ideas to get you started:
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sayyad&layout=compact&theme=radical)
 
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sayyad&layout=compact&theme=radical)
+[![trophy](https://github-profile-trophy.vercel.app/?username=Mohammad-Sayyad&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+
