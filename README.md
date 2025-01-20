@@ -15,7 +15,10 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
+## Contact Me
 
+- 📧 Email: [sayyadamir71111@gmail.com]
+- 💼 LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/in/yourusername/)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Mohammad-Sayyad&layout=compact&theme=radical)
 
